@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ignacio Doe",
+      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb093da7d92733c001c0_Ignacio%20Villafruela%20Rodr%C3%ADguez.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Bennett",
+      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb401d7131c760ca1c63_Elieska%20Lensink.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "createdBy": 1,
+      "title": "Dekmantel Festival",
+      "description": "Dekmantel Festival 2023",
+      "image": "https://dekmantel.com/uploads/music/_1200x630_crop_center-center_82_none/9-Dekmantel-Festival-please-credit-Bart-Heemskerk.jpg?mtime=1606654002",
+      "categoryIds": [1, 2, 3, 4],
+      "location": "Amsterdamse Bos",
+      "startTime": "2023-08-02T18:00",
+      "endTime": "2023-08-06T17:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "createdBy": 1,
+      "title": "DGTL",
+      "description": "DGTL AMSTERDAM",
+      "image": "https://dgtl.nl/wp-content/uploads/2023/02/220416_1953_DGTL-scaled.jpg",
+      "categoryIds": [1, 2, 3, 4],
+      "location": "NDSM Docklands Amsterdam",
+      "startTime": "2023-04-07T12:00",
+      "endTime": "2023-04-09T23:30"
+    },
+    {
+      "id": 3,
+      "createdBy": 2,
+      "title": "Awakenings Summer Festival",
+      "description": "Awakenings Summer Festival 2023",
+      "image": "https://weraveyou.com/wp-content/uploads/2022/06/Awakenings-Festival-2019-004.jpg",
+      "categoryIds": [1, 2, 4],
+      "location": "Beekse Bergen Hilvarenbeek",
+      "startTime": "2023-07-07T12:00:00.000Z",
+      "endTime": "2023-07-09T23:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "createdBy": 2,
+      "title": "Lente Kabinet",
+      "description": "Lente Kabinet Festival 2023",
+      "image": "https://www.patta.nl/cdn/shop/articles/Patta_Stage_1_-_Lente_Kabinet_Festival_2022_please_credit_Pierre_Zylstra_1024x1024.jpg?v=1657202340",
+      "categoryIds": [1, 2, 4],
+      "location": "Het Twiske",
+      "startTime": "2023-05-27T12:00:00.000Z",
+      "endTime": "2023-05-28T23:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "createdBy": 2,
+      "title": "STRAF_WERK",
+      "description": "STRAF_WERK Festival 2023",
+      "image": "https://apenkooi.amsterdam/wp-content/uploads/2018/09/SWF2018-Tim-Buiting.jpg",
+      "categoryIds": [1, 2],
+      "location": "Havenpark Amsterdam",
+      "startTime": "2023-08-19T12:00:00.000Z",
+      "endTime": "2023-08-19T23:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "createdBy": 2,
+      "title": "Draaimolen Festival",
+      "description": "Draaimolen Festival 2023",
+      "image": "https://tilburg.com/wp-content/uploads/2023/05/draaimolen-festival-2023.jpg",
+      "categoryIds": [1, 2, 4],
+      "location": "MOB Complex Tilburg",
+      "startTime": "2023-09-08T12:00:00.000Z",
+      "endTime": "2023-09-09T23:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "createdBy": 2,
+      "title": "The Warehouse Project",
+      "description": "The Warehouse Project Rotterdam 2023",
+      "image": "https://cdn-az.allevents.in/events5/banners/9cf9dc5c97773572a3e5141102647c0f3b1eeb52fbdc53dab5969705d7970403-rimg-w1024-h576-gmir.jpg?v=1679187787",
+      "categoryIds": [1, 2],
+      "location": "RDM Onderzeebootloods Rotterdam",
+      "startTime": "2023-04-28T12:00:00.000Z",
+      "endTime": "2023-04-30T23:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "createdBy": 2,
+      "title": "Music On Festival",
+      "description": "Music On Festival 2023",
+      "image": "https://europebookings.com/wp-content/uploads/music-on-festival-stage-lights-show.jpg",
+      "categoryIds": [1, 2],
+      "location": "Meerpark Amsterdam",
+      "startTime": "2023-05-06T12:00:00.000Z",
+      "endTime": "2023-05-07T23:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "createdBy": 2,
+      "title": "No Art Festival",
+      "description": "No Art Festival 2023",
+      "image": "https://uploads-ssl.webflow.com/62822bdcba8a5547027808c8/649abe29e65dc244e9dcf11d_no-art-festival-2023.jpg",
+      "categoryIds": [1, 2, 4],
+      "location": "Flevopark Amsterdam",
+      "startTime": "2023-06-24T12:00:00.000Z",
+      "endTime": "2023-06-24T23:00:00.000Z"
+    }
+  ],
+  "categories": [
+    {
+      "name": "house",
+      "id": 1
+    },
+    {
+      "name": "techno",
+      "id": 2
+    },
+    {
+      "name": "disco",
+      "id": 3
+    },
+    {
+      "name": "other",
+      "id": 4
+    }
+  ]
+}
