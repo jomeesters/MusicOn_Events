@@ -169,6 +169,7 @@ export const EventForm = ({ onSubmit, initialValues }) => {
         >
           <option value={1}>Moodymann</option>
           <option value={2}>Peggy Gou</option>
+          <option value={3}>Kerri Chandler</option>
         </Select>
       </FormControl>
 
