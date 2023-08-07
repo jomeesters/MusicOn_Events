@@ -35,7 +35,7 @@ const Home = () => {
         </div>
 
         <div className="home_hero_text">
-          <h1>Make every moment count!</h1>
+          <h1>Music On!</h1>
           <h1>Connect, Create and Celebrate.</h1>
         </div>
       </Box>
@@ -274,7 +274,7 @@ const Home = () => {
       </Box>
       <Box className="about-salesbox" m="auto" zIndex={10} w="80%">
         <Text fontSize="1.5rem">
-          <br></br>Make every moment count! Connect, Create and Celebrate.
+          <br></br>Music On! Connect, Create and Celebrate.
         </Text>
         <Link to="/events">
           <Button mt="2rem" colorScheme="red" color="white">
