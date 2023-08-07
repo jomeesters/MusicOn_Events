@@ -37,7 +37,7 @@ export default function Home() {
           </p>
         </Text>
         <div className="about-salesbox">
-          <Heading>Make every moment count!</Heading>{" "}
+          <Heading>Music On!</Heading>{" "}
           <Heading>Connect, Create and Celebrate.</Heading>
           <Link to="/events">
             <Button mt="2rem" colorScheme="red" color="white">
