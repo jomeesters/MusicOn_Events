@@ -167,8 +167,8 @@ export const EventForm = ({ onSubmit, initialValues }) => {
           value={parseInt(values.createdBy) || ""}
           onChange={handleChange}
         >
-          <option value={1}>Ignacio Doe</option>
-          <option value={2}>Jane Bennett</option>
+          <option value={1}>Moodymann</option>
+          <option value={2}>Peggy Gou</option>
         </Select>
       </FormControl>
 
