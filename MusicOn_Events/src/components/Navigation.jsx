@@ -13,7 +13,7 @@ export const Navigation = () => {
     <nav className="header-nav">
       <div className="nav-contents">
         <NavLink to="/" as={Link} activeclassname="active">
-          <Image src="/images/logojm.png" w="4.5rem" />
+          <Image src="/src/images/logojm.png" w="4.5rem" />
         </NavLink>
         <div className="nav-links">
           <ul>
