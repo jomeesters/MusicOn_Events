@@ -91,7 +91,7 @@ const Home = () => {
             w={{ base: "100%", md: "50%", lg: "25%" }}
             flexGrow={{ base: 1, md: 1 }}
             h="30vh"
-            backgroundImage="url('/images/recordlabel.jpeg')"
+            backgroundImage="url('/src/images/recordlabel.jpeg')"
             backgroundSize="cover"
             backgroundPosition="center"
             _hover={{
@@ -134,7 +134,7 @@ const Home = () => {
             flexGrow={{ base: 1, md: 3 }}
             w={{ base: "100%", md: "50%", lg: "25%" }}
             h="30vh"
-            backgroundImage="url('/images/festival.jpeg')"
+            backgroundImage="url('/src/images/festival.jpeg')"
             backgroundSize="cover"
             backgroundPosition="center"
             _hover={{
@@ -178,7 +178,7 @@ const Home = () => {
             flexGrow={{ base: 1, md: 2 }}
             w={{ base: "100%", md: "50%", lg: "25%" }}
             h="30vh"
-            backgroundImage="url('/images/eventplanning.jpg')"
+            backgroundImage="url('/src/images/eventplanning.jpg')"
             backgroundSize="cover"
             backgroundPosition="center"
             _hover={{
@@ -229,7 +229,7 @@ const Home = () => {
             w={{ base: "100%", md: "50%", lg: "25%" }}
             h="30vh"
             color="white"
-            backgroundImage="url('/images/merch.jpeg')"
+            backgroundImage="url('/src/images/merch.jpeg')"
             backgroundSize="cover"
             backgroundPosition="center"
             _hover={{
