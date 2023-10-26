@@ -75,3 +75,8 @@ Make the app responsive.
 
 
 Use Context to store the categories and users so that you only have to fetch them once.
+
+
+![Screen Shot 2023-10-26 at 20 05 11](https://github.com/jomeesters/MusicOn_Events/assets/112581270/26a6d1f5-5be1-4ca8-b309-c5da00cd8673)
+
+https://musiconevents.netlify.app
