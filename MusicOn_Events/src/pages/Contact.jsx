@@ -7,7 +7,7 @@ const Contact = () => {
     <div className="about-container">
       <div className="about-hero">
         <img
-          src="https://www.6amgroup.com/wp-content/uploads/2017/03/awakenings.png"
+          src="https://clubbingtv.com/wp-content/uploads/2016/02/64249152_2991462764212329_6141694063801270272_o.jpg"
           alt="music festival"
         ></img>
       </div>
